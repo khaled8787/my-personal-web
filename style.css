@@ -1,0 +1,5 @@
+p {
+    color: darkcyan; background-color: beige;
+    border: 4px solid rebeccapurple;padding: 10px;
+    box-shadow: 4px 4px 6px;
+}
